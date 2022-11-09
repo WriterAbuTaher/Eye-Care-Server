@@ -15,11 +15,25 @@ app.use(express.json());
 const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@cluster0.v7xheu4.mongodb.net/?retryWrites=true&w=majority`;
 
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
-client.connect(err => {
-    const collection = client.db("test").collection("devices");
-    // perform actions on the collection object
-    client.close();
-});
+
+async function run() {
+    try {
+        const collectionService = client.db('eyecare').collection('services');
+
+        app.get('/services', async (req, res) => {
+            const query = {}
+            const cursor = collectionService.find(query);
+            const services = await cursor.toArray();
+            res.send(services);
+        })
+    }
+    catch (error) {
+        console.log(error);
+    }
+}
+
+run().catch(err => console.log(err));
+
 
 
 app.get('/', (req, res) => {
@@ -29,5 +43,3 @@ app.get('/', (req, res) => {
 app.listen(port, () => {
     console.log(`node server running on port ${port}`);
 })
-
-module.exports = app;
