@@ -1,7 +1,7 @@
 [
     {
         "name": "Refractive Errors",
-        "img": "https://images.unsplash.com/photo-1542432389-a40026383873?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8ZXllJTIwZG9jdG9yfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "img": "https://img.freepik.com/free-vector/ophthalmologist-concept-illustration_114360-6022.jpg?w=740&t=st=1667998735~exp=1667999335~hmac=8a812a709a179323ccae84a38201088cf21c8410945286930d2d4bdc6b9a5f17",
         "whatIsIt": "Refractive errors are a type of vision problem that makes it hard to see clearly. They happen when the shape of your eye keeps light from focusing correctly on your retina (a light-sensitive layer of tissue in the back of your eye). Refractive errors are the most common type of vision problem. More than 150 million Americans have a refractive error — but many don’t know that they could be seeing better. That’s why eye exams are so important. If you have a refractive error, your eye doctor can prescribe eyeglasses or contact lenses to help you see clearly.",
         "symptoms": [
             "Double vision",
@@ -26,7 +26,7 @@
     },
     {
         "name": "Age-Related Macular Degeneration (AMD)",
-        "img": "https://images.unsplash.com/photo-1539036776273-021ec1d78bec?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZXllJTIwZG9jdG9yfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "img": "https://img.freepik.com/free-vector/ophthalmologist-concept-illustration_114360-6062.jpg?w=900&t=st=1667998521~exp=1667999121~hmac=6aad5f8643e112bdf0e333f6e441a50e24965e3a68cf114dc74a8a0633c7e961",
         "whatIsIt": "Age-related macular degeneration (AMD) is an eye disease that can blur your central vision. It happens when aging causes damage to the macula — the part of the eye that controls sharp, straight-ahead vision. The macula is part of the retina (the light-sensitive tissue at the back of the eye). AMD is a common condition — it’s a leading cause of vision loss for older adults. AMD doesn’t cause complete blindness, but losing your central vision can make it harder to see faces, read, drive, or do close-up work like cooking or fixing things around the house. AMD happens very slowly in some people and faster in others. If you have early AMD, you may not notice vision loss for a long time. That’s why it’s important to get regular eye exams to find out if you have AMD.",
         "symptoms": [
             "Early dry AMD doesn’t cause any symptoms.",
@@ -47,7 +47,7 @@
     },
     {
         "name": "Cataracts",
-        "img": "https://images.unsplash.com/photo-1579684453401-966b11832744?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGV5ZSUyMGRvY3RvcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+        "img": "https://img.freepik.com/free-vector/doctor-taking-blood-sample-old-patient-hospital-man-doing-checkup-examination-clinic-senior-sitting-chair_575670-1318.jpg?w=740&t=st=1667999912~exp=1668000512~hmac=44726eb1dc7452b73aa0893be4ab4c077fb6c6cd2c63367590ee580b10d2dee3",
         "whatIsIt": "A cataract is a cloudy area in the lens of your eye. Cataracts are very common as you get older. In fact, more than half of all Americans age 80 or older either have cataracts or have had surgery to get rid of cataracts. At first, you may not notice that you have a cataract. But over time, cataracts can make your vision blurry, hazy, or less colorful. You may have trouble reading or doing other everyday activities. The good news is that surgery can get rid of cataracts. Cataract surgery is safe and corrects vision problems caused by cataracts.  ",
         "symptoms": [
             "Your vision is cloudy or blurry",
@@ -76,7 +76,7 @@
     },
     {
         "name": "Glaucoma",
-        "img": "https://plus.unsplash.com/premium_photo-1661281323861-8bf46349f9cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDl8fGV5ZSUyMGRvY3RvcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+        "img": "https://img.freepik.com/free-vector/ophthalmologist-concept-illustration_114360-6062.jpg?w=900&t=st=1667998521~exp=1667999121~hmac=6aad5f8643e112bdf0e333f6e441a50e24965e3a68cf114dc74a8a0633c7e961",
         "whatIsIt": "Glaucoma is a group of eye diseases that can cause vision loss and blindness by damaging a nerve in the back of your eye called the optic nerve. The symptoms can start so slowly that you may not notice them. The only way to find out if you have glaucoma is to get a comprehensive dilated eye exam. There’s no cure for glaucoma, but early treatment can often stop the damage and protect your vision.  ",
         "symptoms": [
             "At first, glaucoma doesn’t usually have any symptoms. That’s why half of people with glaucoma don’t even know they have it.  ",
@@ -97,7 +97,7 @@
     },
     {
         "name": "Amblyopia (Lazy Eye)",
-        "img": "https://plus.unsplash.com/premium_photo-1661281330911-02ee4ecaf0e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTV8fGV5ZSUyMGRvY3RvcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+        "img": "https://img.freepik.com/free-vector/patient-taking-medical-examination-clinic_52683-57178.jpg?w=740&t=st=1668000105~exp=1668000705~hmac=9775e77a813bed53c7ba014bdbe988e4868841bcd21bf3ca33d1c6d0b2f79f56",
         "whatIsIt": "Amblyopia (also called lazy eye) is a type of poor vision that usually happens in just 1 eye but less commonly in both eyes. It develops when there’s a breakdown in how the brain and the eye work together, and the brain can’t recognize the sight from 1 eye. Over time, the brain relies more and more on the other, stronger eye — while vision in the weaker eye gets worse. It’s called “lazy eye” because the stronger eye works better. But people with amblyopia are not lazy, and they can’t control the way their eyes work. Amblyopia starts in childhood, and it’s the most common cause of vision loss in kids. Up to 3 out of 100 children have it. The good news is that early treatment works well and usually prevents long-term vision problems.",
         "symptoms": [
             "Squinting",
@@ -118,7 +118,7 @@
     },
     {
         "name": "Diabetic Retinopathy",
-        "img": "https://plus.unsplash.com/premium_photo-1661281319841-8f2ff2931013?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OTd8fGV5ZSUyMGRvY3RvcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+        "img": "https://img.freepik.com/free-vector/researchers-concept-illustration_114360-8124.jpg?w=900&t=st=1668000041~exp=1668000641~hmac=6e84d4bcc564339a0310c7604a8bbecd31d1e9e76dbef421584b01454b30ee5f",
         "whatIsIt": "Diabetic retinopathy is an eye condition that can cause vision loss and blindness in people who have diabetes. It affects blood vessels in the retina (the light-sensitive layer of tissue in the back of your eye). If you have diabetes, it’s important to get a comprehensive dilated eye exam at least once a year. Diabetic retinopathy may not have any symptoms at first — but finding it early can help you take steps to protect your vision. Managing your diabetes — by staying physically active, eating healthy, and taking your medicine — can also help you prevent or delay vision loss.",
         "symptoms": [
             "The early stages of diabetic retinopathy usually don’t have any symptoms. Some people notice changes in their vision, like trouble reading or seeing faraway objects. These changes may come and go.",
